@@ -1,0 +1,6 @@
+C:\Users\Irina\source\repos\AreaOfShapes\AreaOfShapes\bin\Debug\AreaOfShapes.dll
+C:\Users\Irina\source\repos\AreaOfShapes\AreaOfShapes\bin\Debug\AreaOfShapes.pdb
+C:\Users\Irina\source\repos\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.csprojResolveAssemblyReference.cache
+C:\Users\Irina\source\repos\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.dll
+C:\Users\Irina\source\repos\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.pdb
